@@ -17,7 +17,6 @@
         name:
           - git
           - curl
-          - ca-certificates
         state: present
         update_cache: yes
         
